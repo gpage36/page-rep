@@ -1,0 +1,17 @@
+h1{
+  color: white;
+  font-family: "Allerta", "Arial", sans-serif;
+}
+
+body{
+  background-color: white;
+  background-image: url("https://live.staticflickr.com/4040/4572167688_e8056858ac_k.jpg");
+  font-family: "Allerta", "Arial", sans-serif;
+}
+
+p{
+  background-image: url('https://lh3.googleusercontent.com/JtydLMmaKiEAfEXgRczSEWKVfAhYNeZDcrTSoCM6_sz7gqygccHsnuNvY-3rTvMOyI1qag=s170');
+  padding: 10px;
+  border: 15px white;
+  margin: 0;
+}
